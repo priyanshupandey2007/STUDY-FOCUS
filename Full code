@@ -14,7 +14,7 @@
             --primary: #4f46e5;
             --secondary: #10b981;
             --accent: #f59e0b;
-            --dark: #1e293b;
+            --dark: #1e293b; 
             --light: #f8fafc;
         }
 
